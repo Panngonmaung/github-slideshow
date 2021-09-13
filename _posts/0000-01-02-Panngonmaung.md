@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Testing this one for EE project.
 Use the left arrow to go back!
